@@ -11,3 +11,8 @@ TODO add links below
 - Shader property drawers https://gist.github.com/smkplus/2a5899bf415e2b6bf6a59726bb1ae2ec
 - Shader properties https://gist.github.com/Split82/d1651403ffb05e912d9c3786f11d6a44
 - Shader math https://gist.github.com/quizcanners/0da1cbad4b1e2187af73f6ab52a6dabb
+
+
+### Contributing
+- Use issues (so submit ideas, links, resources) https://github.com/unitycoder/UnityResources/issues
+- Or fork this repo, add pull request for readme
