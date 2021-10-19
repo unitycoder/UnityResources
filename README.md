@@ -4,7 +4,8 @@
 TODO add links below
 ### SDK Downloads
 - Android jdk-8u202 https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html (get login http://bugmenot.com/view/oracle.com)
-- Android NDK r19 https://dl.google.com/android/repository/android-ndk-r19-windows-x86_64.zip
+- Android NDK 19 https://dl.google.com/android/repository/android-ndk-r19-windows-x86_64.zip
+- Android NDK 21d https://dl.google.com/android/repository/android-ndk-r21d-windows-x86_64.zip
 
 ### Cheatsheets
 - Shader notes https://github.com/nothke/UnityShaderCheatsheet/blob/master/ShaderCheatsheet.shader
