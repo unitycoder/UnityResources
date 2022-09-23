@@ -15,6 +15,9 @@ TODO add links below
 - Shader properties https://gist.github.com/Split82/d1651403ffb05e912d9c3786f11d6a44
 - Shader math https://gist.github.com/quizcanners/0da1cbad4b1e2187af73f6ab52a6dabb
 
+### Discord
+- Official Unity discord https://discord.com/invite/unity
+
 ### Contributing
 - Use issues (so submit ideas, links, resources) https://github.com/unitycoder/UnityResources/issues
 - Or fork this repo, add pull request for readme
