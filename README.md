@@ -3,6 +3,7 @@
 
 TODO add links below
 ### SDK Downloads
+- New: Find exact correct SDK/NDK versions from releases api https://services.api.unity.com/unity/editor/release/v1/releases?order=RELEASE_DATE_DESC&limit=1&version=6000.0.38 < set your version here, then search raw results for sdk
 - Android jdk-8u202 https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html (get login http://bugmenot.com/view/oracle.com)
 - Android NDK 19 https://dl.google.com/android/repository/android-ndk-r19-windows-x86_64.zip
 - Android NDK 21d https://dl.google.com/android/repository/android-ndk-r21d-windows-x86_64.zip
